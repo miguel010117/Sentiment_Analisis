@@ -3,6 +3,5 @@ Model/
 Model_Train/
 Tokenizer_Train/
 Logic/Fine_turned/
-Logic/
-Teoria/
-Aspect/
+Logic/Fine_turned
+
